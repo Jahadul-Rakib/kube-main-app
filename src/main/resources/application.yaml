@@ -1,0 +1,4 @@
+server:
+  port: 8080
+child:
+  base-url: http://${CHILD_URL}
